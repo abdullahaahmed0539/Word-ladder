@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="016137b4-4daf-40c7-a1ec-13cc31026fb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Assignment1_wordLadder" />
+  </component>
+  <component name="ProjectId" id="1ppU8E4KYFTRM5YgSu5ha2fw1VX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Digraph">
+    <configuration name="Digraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Digraph" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph" />
+      <module name="Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Digraph" />
+        <item itemvalue="Application.Graph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016137b4-4daf-40c7-a1ec-13cc31026fb9" name="Default Changelist" comment="" />
+      <created>1615879363558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615879363558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="112" key="#Digraph" timestamp="1615965161561">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="422" y="112" key="#Digraph/0.0.1440.900@0.0.1440.900" timestamp="1615965161561" />
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615965133828">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="238" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1615965133828" />
+    <state width="417" height="466" key="DebuggerActiveHint" timestamp="1615921330907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="417" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1615921330907" />
+    <state width="1398" height="94" key="GridCell.Tab.0.bottom" timestamp="1616245087885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616245087885" />
+    <state width="1398" height="94" key="GridCell.Tab.0.center" timestamp="1616245087884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1616245087884" />
+    <state width="1398" height="94" key="GridCell.Tab.0.left" timestamp="1616245087884">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1616245087884" />
+    <state width="1398" height="94" key="GridCell.Tab.0.right" timestamp="1616245087885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="94" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1616245087885" />
+    <state width="1398" height="509" key="GridCell.Tab.1.bottom" timestamp="1616244960741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="509" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1616244960741" />
+    <state width="1398" height="509" key="GridCell.Tab.1.center" timestamp="1616244960740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="509" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1616244960740" />
+    <state width="1398" height="509" key="GridCell.Tab.1.left" timestamp="1616244960740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="509" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1616244960740" />
+    <state width="1398" height="509" key="GridCell.Tab.1.right" timestamp="1616244960741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="509" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1616244960741" />
+    <state x="297" y="190" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615908426000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="190" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1615908426000" />
+    <state x="450" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1615885806184">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="366" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1615885806184" />
+  </component>
+</project>
